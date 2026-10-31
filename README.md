@@ -8,7 +8,7 @@
 
 ### 🌐 **GITHUB:**
 
-- [Main app]()
+- [Main app](https://github.com/Volodymyr0587/Tailwind-CSS-v4-for-Beginners-Full-Course-2026)
 
 ### 🌐 **SOURCE CODE:** [github](https://github.com/thecodercoder/tailwind-css-beginners)
 
